@@ -1,4 +1,4 @@
-# Graphics
+# Installing `graphics.h` to Visual Studio 
 Actually you can use `graphics.h` on the lastest version of `Visual Studio`
 
  1. Download `graphics.h` and `graphics.lib` files in https://github.com/ahuynh359/Graphics
