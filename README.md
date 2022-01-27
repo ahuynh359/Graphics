@@ -5,6 +5,7 @@ Actually you can use `graphics.h` on the lastest version of `Visual Studio`
 2. Drag these two files and drop to your sub project. For example if my project named `Project1` I will add these two files to `Project1\Project1`
 [![enter image description here][1]][1]
 3. Change to `x86` in `Configuration Manager` next to the `Debug` box
+
 [![enter image description here][2]][2]
 4. Implement these code 
 ```
