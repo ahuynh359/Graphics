@@ -1,4 +1,4 @@
-# Installing `graphics.h` to Visual Studio 
+#Graphics.h In Visual Studio
 Actually you can use `graphics.h` on the lastest version of `Visual Studio`
 
  1. Download `graphics.h` and `graphics.lib` files in https://github.com/ahuynh359/Graphics
@@ -6,9 +6,10 @@ Actually you can use `graphics.h` on the lastest version of `Visual Studio`
 
 [![enter image description here][1]][1]
 
-3. Change to `x86` in `Configuration Manager` next to the `Debug` box
+3. Right click on the project choose `Properties` choose `Configuration Manager` change to `x86` and `Win32`
 
 [![enter image description here][2]][2]
+[![enter image description here][3]][3]
 
 4. Implement these code 
 ```
@@ -25,4 +26,5 @@ int main()
 
 
   [1]: https://i.stack.imgur.com/uLYc6.png
-  [2]: https://i.stack.imgur.com/D8aw8.png
+  [2]: https://i.stack.imgur.com/UQ3rN.png
+  [3]: https://i.stack.imgur.com/WecwB.png
