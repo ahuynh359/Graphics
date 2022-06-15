@@ -7,10 +7,10 @@ Actually you can use `graphics.h` on the lastest version of `Visual Studio`
 
 [![enter image description here][1]][1]
 
-3. Right click on the project choose `Properties` choose `Configuration Manager` change to `x86` and `Win32`
+3. Change to `x86` 
 
-[![enter image description here][2]][2]
-[![enter image description here][3]][3]
+<img width="526" alt="Untitled" src="https://user-images.githubusercontent.com/32415728/173909656-1b929b6e-9c6b-4bb2-a274-96700329d041.png">
+
 
 4. Implement these code 
 ```
